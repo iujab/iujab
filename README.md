@@ -1,5 +1,5 @@
 My startup:  
-https://subleaps.com/ | operating in 85+ universities  
+https://subleaps.com/ | Operating in 85+ universities | Awarded at UIUC's Cozad Startup Competition  
 
 Hackathons:  
 https://github.com/AkshajBharadwaj/MedVend | Qualcomm Arduino Days Hackathon | 🥇 Winner — Best Use of AI  
